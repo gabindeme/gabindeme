@@ -22,7 +22,7 @@ Here are some of the tools I work with regularly:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onibagg&show_icons=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabindeme&show_icons=true&hide=prs&theme=radical)
 
 ---
 
